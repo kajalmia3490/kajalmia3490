@@ -53,10 +53,8 @@
 ✔️ Scalable Backend Architectures  
 ✔️ Database Design & Optimization  
 ✔️ Real-Time Applications  
-✔️ Business Automation Systems  
+✔️ Odoo Integration With External System  
 ✔️ Booking, ERP, POS, Management Systems
-✔️ Odoo Integration With External System 
-
 
 ---
 ## 🤝 Let’s Work Together
