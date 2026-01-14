@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kajal</h1>
 <h3 align="center">Backend Developer</h3>
-<h4>Python | Node JS | API | MSSQL | MySQL | MongoDB</h4>
-
+<h4 align="center">Python | Node JS | API | MSSQL | MySQL | MongoDB</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-%F0%9F%9A%80-blue" />
 </p>
-
 ---
-
 ## About Me
-
 💻 **Professional Backend Developer**  
 ⚙️ Specialized in building secure, scalable & high-performance systems  
 🧠 Passionate about clean code, system architecture & optimization  
@@ -17,9 +13,7 @@
 📬 Available for freelance & remote opportunities
 
 ---
-
 ## 🛠️ Tech Stack
-
 ### 🌐 Frontend & UI
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
@@ -55,9 +49,7 @@
 ![Sublime](https://img.shields.io/badge/Sublime_Text-orange?style=for-the-badge)
 
 ---
-
 ## What I Build
-
 ✔️ RESTful APIs  
 ✔️ Authentication & Authorization Systems  
 ✔️ Scalable Backend Architectures  
@@ -67,9 +59,7 @@
 ✔️ Booking, ERP, POS, Management Systems
 
 ---
-
 ## 🤝 Let’s Work Together
-
 - **Email:** kajalmia3490.com  
 - **Portfolio:** coming soon  
 - **GitHub:** https://github.com/kajalmia3490  
