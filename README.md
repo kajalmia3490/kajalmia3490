@@ -51,7 +51,7 @@
 ![Sublime](https://img.shields.io/badge/Sublime_Text-orange?style=for-the-badge)
 
 ---
-## What I Build
+## What I Built
 ✔️ RESTful APIs  
 ✔️ Authentication & Authorization Systems  
 ✔️ Scalable Backend Architectures  
@@ -62,6 +62,6 @@
 
 ---
 ## 🤝 Let’s Work Together
-- **Email:** kajalmia3490.com  
+- **Email:** kajalmia3490@gmail.com  
 - **Portfolio:** coming soon  
 - **GitHub:** https://github.com/kajalmia3490  
