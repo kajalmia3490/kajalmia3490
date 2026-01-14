@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kajal</h1>
 <h3 align="center">Backend Developer</h3>
 <h4 align="center">Python | Node JS | API | MSSQL | MySQL | MongoDB</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-%F0%9F%9A%80-blue" />
 </p>
+
 ---
 ## About Me
 💻 **Professional Backend Developer**  
