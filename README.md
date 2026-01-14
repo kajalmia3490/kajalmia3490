@@ -55,7 +55,7 @@
 ✔️ Real-Time Applications  
 ✔️ Business Automation Systems  
 ✔️ Booking, ERP, POS, Management Systems
-✔️ Odoo Integration With External System
+✔️ Odoo Integration With External System 
 
 ---
 ## 🤝 Let’s Work Together
