@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kajal</h1>
+<h3 align="center">Backend Developer</h3>
+<h4>Python | Node JS | API | MSSQL | MySQL | MongoDB</h4>
 
-<!--
-**kajalmia3490/kajalmia3490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Developer-%F0%9F%9A%80-blue" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+💻 **Professional Backend Developer**  
+⚙️ Specialized in building secure, scalable & high-performance systems  
+🧠 Passionate about clean code, system architecture & optimization  
+🌐 Experienced with REST APIs, Databases & Full-Stack collaboration  
+📬 Available for freelance & remote opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend & UI
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
+![XML](https://img.shields.io/badge/XML-grey?style=for-the-badge)
+
+### ⚡ JavaScript Ecosystem
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![ES6](https://img.shields.io/badge/ES6-black?style=for-the-badge)
+![React](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react)
+![Material UI](https://img.shields.io/badge/Material_UI-blue?style=for-the-badge&logo=mui)
+![jQuery](https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery)
+![Reactstrap](https://img.shields.io/badge/Reactstrap-darkblue?style=for-the-badge)
+
+### 🧠 Backend & APIs
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+![API](https://img.shields.io/badge/API_Integration-orange?style=for-the-badge)
+
+### 🗄️ Databases
+![MSSQL](https://img.shields.io/badge/MS_SQL-red?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/Netlify-cyan?style=for-the-badge&logo=netlify)
+![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Sublime](https://img.shields.io/badge/Sublime_Text-orange?style=for-the-badge)
+
+---
+
+## What I Build
+
+✔️ RESTful APIs  
+✔️ Authentication & Authorization Systems  
+✔️ Scalable Backend Architectures  
+✔️ Database Design & Optimization  
+✔️ Real-Time Applications  
+✔️ Business Automation Systems  
+✔️ Booking, ERP, POS, Management Systems
+
+---
+
+## 🤝 Let’s Work Together
+
+- **Email:** kajalmia3490.com  
+- **Portfolio:** coming soon  
+- **GitHub:** https://github.com/kajalmia3490  
