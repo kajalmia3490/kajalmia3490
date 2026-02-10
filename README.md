@@ -59,5 +59,5 @@
 ---
 ## 🤝 Let’s Work Together
 - **Email:** kajalmia3490@gmail.com  
-- **Portfolio:** coming soon  
+- **Portfolio:** https://portfolio-nibbr173f-kajalmia3490s-projects.vercel.app/  
 - **GitHub:** https://github.com/kajalmia3490  
