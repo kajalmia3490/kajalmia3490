@@ -4,7 +4,7 @@
 
 ---
 ## About Me
-💻 **Professional Backend Developer**  
+💻 **Professional Full Stack Web Developer**  
 ⚙️ Specialized in building secure, scalable & high-performance systems  
 🧠 Passionate about clean code, system architecture & optimization  
 🌐 Experienced with REST APIs, Databases & Full-Stack collaboration  
