@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Kajal</h3>
 <p align="center"><i>Full-Stack Web Developer | AI Assistant Developer</i></p>
-<h5 align="center">Python | Node JS | API | MSSQL | MySQL | MongoDB</h5>
+<h5 align="center">TypeScript/JavaScript | Node JS | Python | API | MSSQL | MySQL | MongoDB | PostgreSQL</h5>
 
 ---
 ## About Me
