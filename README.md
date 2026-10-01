@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Kajal</h3>
-<p align="center"><i>Full-Stack Web Developer</i></p>
+<p align="center"><i>Full-Stack Web Developer | AI Assistant Developer</i></p>
 <h5 align="center">Python | Node JS | API | MSSQL | MySQL | MongoDB</h5>
 
 ---
