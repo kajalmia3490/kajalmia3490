@@ -4,7 +4,7 @@
 
 ---
 ## About Me
-💻 **Professional Full Stack Web Developer**  
+💻 **Professional Software Developer**  
 ⚙️ Specialized in building secure, scalable & high-performance systems  
 🧠 Passionate about clean code, system architecture & optimization  
 🌐 Experienced with REST APIs, Databases & Full-Stack collaboration  
@@ -53,7 +53,7 @@
 ✔️ Scalable Backend Architectures  
 ✔️ Database Design & Optimization  
 ✔️ Real-Time Applications  
-✔️ Odoo Integration With External System  
+✔️ Odoo Integration With External System and Custom Module Development
 ✔️ Booking, ERP, POS, Management Systems
 
 ---
